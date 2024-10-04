@@ -400,7 +400,7 @@ form input[type="submit"]{
 
 .bottom{
     background-color:black;
-    border: 3px solid green; 
+/*     border: 3px solid green;  */
     position: relative;
 }
 
@@ -419,7 +419,7 @@ form input[type="submit"]{
     padding: auto 0;
     text-align: center;
     padding-top: 35px;
-    border: 3px solid yellow; 
+/*     border: 3px solid yellow;  */
 }
 
 
